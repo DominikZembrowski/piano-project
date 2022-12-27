@@ -1,3 +1,3 @@
 # piano-project
 
-# project was created by Kyle at WebDevSimplified: https://github.com/WebDevSimplified
+# The Author of this code is Kyle who runs WebDevSimplified: https://github.com/WebDevSimplified
